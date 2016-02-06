@@ -51,3 +51,4 @@ var scenes;
     })(objects.Scene);
     scenes.rScene = rScene;
 })(scenes || (scenes = {}));
+//# sourceMappingURL=RScene.js.map

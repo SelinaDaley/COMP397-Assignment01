@@ -40,3 +40,4 @@ var scenes;
     })(objects.Scene);
     scenes.LeftCave = LeftCave;
 })(scenes || (scenes = {}));
+//# sourceMappingURL=leftcave.js.map

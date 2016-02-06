@@ -40,3 +40,4 @@ var scenes;
     })(objects.Scene);
     scenes.RightCave = RightCave;
 })(scenes || (scenes = {}));
+//# sourceMappingURL=rightcave.js.map

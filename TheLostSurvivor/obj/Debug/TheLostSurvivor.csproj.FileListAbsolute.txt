@@ -14,12 +14,5 @@ E:\tech\Second Year\2015 WINTER\COMP-397-001 (Web Game Programming) - Tom Tsilio
 E:\tech\Second Year\2015 WINTER\COMP-397-001 (Web Game Programming) - Tom Tsiliopoulos (F)\Labs\Assignment01\TheLostSurvivor\bin\TheLostSurvivor.dll.config
 E:\tech\Second Year\2015 WINTER\COMP-397-001 (Web Game Programming) - Tom Tsiliopoulos (F)\Labs\Assignment01\TheLostSurvivor\bin\TheLostSurvivor.dll
 E:\tech\Second Year\2015 WINTER\COMP-397-001 (Web Game Programming) - Tom Tsiliopoulos (F)\Labs\Assignment01\TheLostSurvivor\bin\TheLostSurvivor.pdb
-E:\tech\Second Year\2015 WINTER\COMP-397-001 (Web Game Programming) - Tom Tsiliopoulos (F)\Labs\Assignment01\TheLostSurvivor\bin\Microsoft.AI.DependencyCollector.xml
-E:\tech\Second Year\2015 WINTER\COMP-397-001 (Web Game Programming) - Tom Tsiliopoulos (F)\Labs\Assignment01\TheLostSurvivor\bin\Microsoft.AI.ServerTelemetryChannel.xml
-E:\tech\Second Year\2015 WINTER\COMP-397-001 (Web Game Programming) - Tom Tsiliopoulos (F)\Labs\Assignment01\TheLostSurvivor\bin\Microsoft.AI.Web.xml
-E:\tech\Second Year\2015 WINTER\COMP-397-001 (Web Game Programming) - Tom Tsiliopoulos (F)\Labs\Assignment01\TheLostSurvivor\bin\Microsoft.AI.WindowsServer.xml
-E:\tech\Second Year\2015 WINTER\COMP-397-001 (Web Game Programming) - Tom Tsiliopoulos (F)\Labs\Assignment01\TheLostSurvivor\bin\Microsoft.ApplicationInsights.xml
-E:\tech\Second Year\2015 WINTER\COMP-397-001 (Web Game Programming) - Tom Tsiliopoulos (F)\Labs\Assignment01\TheLostSurvivor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\tech\Second Year\2015 WINTER\COMP-397-001 (Web Game Programming) - Tom Tsiliopoulos (F)\Labs\Assignment01\TheLostSurvivor\obj\Debug\TheLostSurvivor.csprojResolveAssemblyReference.cache
 E:\tech\Second Year\2015 WINTER\COMP-397-001 (Web Game Programming) - Tom Tsiliopoulos (F)\Labs\Assignment01\TheLostSurvivor\obj\Debug\TheLostSurvivor.dll
 E:\tech\Second Year\2015 WINTER\COMP-397-001 (Web Game Programming) - Tom Tsiliopoulos (F)\Labs\Assignment01\TheLostSurvivor\obj\Debug\TheLostSurvivor.pdb

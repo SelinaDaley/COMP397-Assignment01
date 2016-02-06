@@ -40,3 +40,4 @@ var scenes;
     })(objects.Scene);
     scenes.lrlScene = lrlScene;
 })(scenes || (scenes = {}));
+//# sourceMappingURL=LRLScene.js.map
